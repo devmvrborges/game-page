@@ -11,22 +11,25 @@ Este é um projeto Vue.js simples que demonstra como criar uma tela inicial com 
 
 1. Clone o repositório:
 
-git@github.com:devmvrborges/vue-router-pages-sample.git
+```git@github.com:devmvrborges/vue-router-pages-sample.git```
 
 2. Instale as dependências:
 
-cd vue-router-pages-sample
-npm install
+```cd vue-router-pages-sample```
+
+```npm install```
 
 3. Execute o projeto:
 
-npm run serve
+```npm run serve```
 
-4. Abra o navegador e acesse [http://localhost:8080](http://localhost:8080).
+4. Abra o navegador e acesse 
+ 
+[http://localhost:8080](http://localhost:8080)
 
 ## Estrutura do Projeto
 
-vue-router-pages-sample/
+```vue-router-pages-sample/
 |-- node_modules/ # Dependências do projeto
 |-- public/ # Arquivos públicos
 | |-- index.html # Arquivo HTML principal
@@ -36,6 +39,7 @@ vue-router-pages-sample/
 | |-- main.js # Arquivo de entrada da aplicação Vue.js
 |-- package.json # Arquivo de configuração do projeto
 |-- README.md # Este arquivo README
+```
 
 ## Tecnologias Utilizadas
 
@@ -45,8 +49,10 @@ vue-router-pages-sample/
 ## Autor
 
 Mauricio Borges
+
 (https://github.com/devmvrborges/)
 
 ## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
